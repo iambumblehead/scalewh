@@ -1,0 +1,23 @@
+{
+  "name": "scalewh",
+  "main": "scalewh",
+  "version": "0.0.2",
+  "description": "scaled width and height",
+  "author": "Chris <chris@bumblehead.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/scalewh.git"
+  },
+  "keywords": [
+    "scale"
+  ],
+  "devDependencies": {
+    "jasmine": "2.5.3",
+    "jasmine-spec-reporter": "3.2.0"
+  },
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js --verbose"
+  }
+}
